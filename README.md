@@ -20,7 +20,6 @@
 
 
 ### 🌐 Connect with Me  
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jogu-uday-kiran-245943272/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jogu Uday Kiran LinkedIn" height="30" width="40" />
@@ -52,14 +51,15 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udaaaykiranjogu21342&show_icons=true&locale=en&layout=compact" alt="udaaaykiranjogu21342" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udaaaykiranjogu21342&show_icons=true&locale=en" alt="udaaaykiranjogu21342" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udaaaykiranjogu21342&" alt="udaaaykiranjogu21342" /></p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaaaykiranjogu21342&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udaaaykiranjogu21342&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udaaaykiranjogu21342&" alt="udaaaykiranjogu21342" />
+</p>
 
 > *“Always striving to bridge technology with innovation & leadership.”*
 
----
 
