@@ -51,14 +51,18 @@
 
 
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaaaykiranjogu21342&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=udaaaykiranjogu21342&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
-<p align="center">
+</p>
+  <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udaaaykiranjogu21342&" alt="udaaaykiranjogu21342" />
 </p>
+
+
 
 > *“Always striving to bridge technology with innovation & leadership.”*
 
