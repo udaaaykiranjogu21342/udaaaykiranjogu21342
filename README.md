@@ -59,8 +59,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=udaaaykiranjogu21342&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
   <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udaaaykiranjogu21342&" alt="udaaaykiranjogu21342" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaaaykiranjogu21342&" alt="udaaaykiranjogu21342" />
 </p>
+
+
+
+![](https://nirzak-streak-stats.vercel.app/?user=udaaaykiranjogu21342&theme=dark&hide_border=false)<br/>
+
+
 
 
 
